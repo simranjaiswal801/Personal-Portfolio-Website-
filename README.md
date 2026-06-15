@@ -2,7 +2,7 @@
 
 ## About Project
 
-This is a personal portfolio website developed using HTML and CSS.
+This is a personal portfolio website developed using HTML.
 
 ## Features
 
