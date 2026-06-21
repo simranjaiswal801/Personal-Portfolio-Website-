@@ -20,8 +20,6 @@ This is a responsive personal portfolio website created using HTML5 and CSS3. It
  https://simranjaiswal801-png.github.io/Personal-Portfolio-Website/
 
 ## Project Structure
-
-```
 Portfolio-Website/
 │
 ├── index.html
@@ -33,6 +31,9 @@ Portfolio-Website/
 │── Simran_Jaiswal_Resume.pdf
 
 ## ScreenShort
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a661a71-b667-41af-ba97-d03dec4de25c" />
+
+
 
 
 ## Author
