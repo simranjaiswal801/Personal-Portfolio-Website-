@@ -17,7 +17,7 @@ This is a responsive personal portfolio website created using HTML5 and CSS3. It
 - CSS3
 
 ## Live Demo
- https://simranjaiswal801-png.github.io/Personal-Portfolio-Website/
+ https://simranjaiswal801.github.io/Personal-Portfolio-Website/
 
 ## Project Structure
 Portfolio-Website/
