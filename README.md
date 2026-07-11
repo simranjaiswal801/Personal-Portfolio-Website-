@@ -1,107 +1,128 @@
-# 🌐 Interactive Portfolio Website
+# 🌐 Personal Portfolio Website
 
-## 📖 Project Overview
+A modern, responsive, and interactive personal portfolio website built to showcase my skills, projects, internships, education, and professional journey. This portfolio represents my work as an aspiring **Frontend Web Developer** with an interest in **Data Analytics**.
 
-This is a responsive and interactive Personal Portfolio Website developed using **HTML5, CSS3, and JavaScript**. The website showcases my profile, technical skills, projects, resume, and contact information while providing an engaging user experience through JavaScript-based interactive features.
+## 🚀 Live Demo
+
+**Website:** https://simranjaiswal801.github.io/Personal-Portfolio-Website-/
+
+---
+
+## 📖 About the Project
+
+This portfolio website serves as my professional online presence where visitors can learn about me, explore my technical skills, view my projects, internships, and educational background, and easily get in touch.
+
+The website is fully responsive and optimized for desktops, tablets, and mobile devices.
 
 ---
 
 ## ✨ Features
 
-- Responsive Design
-- Dark Mode Toggle
-- Contact Form Validation
-- Welcome Message
-- Scroll to Top Button
-- Resume Download
-- Project Showcase
-- Social Media Links
-- Smooth Navigation
+* Responsive Design
+* Modern & Clean UI
+* Hero Section
+* About Me Section
+* Skills Section
+* Internship Experience
+* Projects Showcase
+* Education Section
+* Contact Section
+* Social Media Links
+* Smooth Navigation
+* Mobile Friendly
+* Interactive Animations
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Design
+* Git & GitHub
+* GitHub Pages
 
 ---
 
 ## 📂 Project Structure
 
-```
-Portfolio-Website/
+```text
+Personal-Portfolio-Website-/
 │
 ├── index.html
-├── style.css
-├── script.js
-├── README.md
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animations.css
+│
+├── js/
+│   └── script.js
 │
 ├── images/
-│   └── image.png
 │
-├── resume/
-│   └── simran_web_dev.pdf
-│
-└── screenshots/
+└── README.md
 ```
 
 ---
 
-## 🚀 Setup Instructions
+## 💻 Getting Started
 
-1. Download or clone this repository.
-2. Open the project folder in Visual Studio Code.
-3. Make sure all project files are present.
-4. Open **index.html** in your preferred web browser.
-5. Explore the portfolio and its interactive features.
+### Clone Repository
+
+```bash
+git clone https://github.com/simranjaiswal801/Personal-Portfolio-Website-.git
+```
+
+### Open Project
+
+```bash
+cd Personal-Portfolio-Website-
+```
+
+Open **index.html** in your browser or use the **Live Server** extension in VS Code.
 
 ---
 
-## 💡 Interactive Features
+## 📸 Website Sections
 
-### 🌙 Dark Mode
-Allows users to switch between Light Mode and Dark Mode. The selected theme is saved using Local Storage.
-
-### 📝 Contact Form Validation
-Validates:
-- Name
-- Email
-- Message
-
-Displays appropriate error and success messages.
-
-### ⬆️ Scroll to Top Button
-Appears when the page is scrolled down and smoothly scrolls back to the top.
-
-### 👋 Welcome Message
-Displays a dynamic welcome message using JavaScript DOM Manipulation.
+* Home
+* About
+* Skills
+* Experience
+* Internships
+* Projects
+* Education
+* Contact
 
 ---
 
 ## 📱 Responsive Design
 
-The website is fully responsive and works on:
+The website is fully responsive and works seamlessly on:
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
+* Desktop
+* Laptop
+* Tablet
+* Mobile Devices
 
 ---
 
-## 📸 Screenshots
+## 🎯 Purpose
 
-Add screenshots of:
+The objective of this project is to build a professional portfolio that showcases my technical skills, projects, and achievements while providing recruiters and visitors with a clean and engaging user experience.
 
-- Home Page
-- About Section
-- Skills Section
-- Projects Section
-- Contact Section
-- Dark Mode
-- Mobile View
+---
+
+## 📌 Future Improvements
+
+* Dark/Light Theme Toggle
+* Project Filtering
+* Blog Section
+* Download Resume Option
+* Contact Form Backend Integration
+* Better Performance Optimization
+* SEO Enhancements
 
 ---
 
@@ -109,16 +130,11 @@ Add screenshots of:
 
 **Simran Jaiswal**
 
-Computer Science & Engineering (Data Science) Student
-
-**GitHub:**  
-https://github.com/simranjaiswal801
-
-**LinkedIn:**  
-https://www.linkedin.com/in/simran-jaiswal-948791341/
+* Aspiring Frontend Web Developer
+* Interested in Data Analytics
 
 ---
 
-## 📄 License
+## ⭐ If you like this project
 
-This project is created for educational and portfolio purposes only.
+Give this repository a ⭐ on GitHub and feel free to fork it for learning purposes.
